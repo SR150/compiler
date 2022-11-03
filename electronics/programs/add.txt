@@ -1,0 +1,13 @@
+resetAcc()
+add(value1)
+add(value2)
+resetAcc()#reads value from an array
+halt()
+resetAcc()#reads value from an array
+add(values[0])
+add(values[1])
+halt()
+dec(10) ref value1
+dec(20) ref value2
+dec(1)ref values
+dec(2)

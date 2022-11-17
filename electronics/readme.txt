@@ -6,3 +6,5 @@ class add(addressInstruction):
     code = "01110100"
 and an extra entry in a dictionary in the get command method. Most instructions can be created with that little code though some will require more mainly
 around error checking.
+
+note: The software to load the compiled code onto the computer is not included
